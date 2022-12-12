@@ -25,7 +25,11 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "node_modules/primeicons/primeicons.css",
+              "node_modules/primeng/resources/primeng.min.css",
+              "node_modules/primeng/resources/themes/vela-orange/theme.css",  
+              "node_modules/primeflex/primeflex.css"
             ],
             "scripts": []
           },
@@ -94,5 +98,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "fd715ee5-256c-46be-be85-1e5d647f9cf7"
   }
 }
